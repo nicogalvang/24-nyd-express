@@ -1,0 +1,22 @@
+{
+  "name": "nyd",
+  "version": "1.0.0",
+  "description": "Hola express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicogalvang/24-nyd-express.git"
+  },
+  "keywords": [
+    "nydnyd"
+  ],
+  "author": "nyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicogalvang/24-nyd-express/issues"
+  },
+  "homepage": "https://github.com/nicogalvang/24-nyd-express#readme"
+}
